@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1413747059 source:/home/hostelix/proyectos/BMK/main.cpp
+	"BMK_Librerias.h"
+
+1413745198 /home/hostelix/proyectos/BMK/include/BMK_Librerias.h
+	<SDL/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	"BMK_ModuloSDL.h"
+	"BMK_Librerias.h"
+	"BMK_Mapa.h"
+	"BMK_Imagen.h"
+	"BMK_Sprites.h"
+	"BMK_Juego.h"
+	"BMK_Inventario.h"
+
+1413681523 /home/hostelix/proyectos/BMK/include/BMK_ModuloSDL.h
+	"BMK_Mensajes.h"
+
+1413617636 /home/hostelix/proyectos/BMK/include/BMK_Mensajes.h
+
+1413693254 /home/hostelix/proyectos/BMK/include/BMK_Mapa.h
+	"BMK_Constantes.h"
+	"BMK_Sprites.h"
+	"BMK_Objeto.h"
+
+1413745525 /home/hostelix/proyectos/BMK/include/BMK_Constantes.h
+
+1413746459 /home/hostelix/proyectos/BMK/include/BMK_Sprites.h
+	"BMK_Imagen.h"
+
+1413688652 /home/hostelix/proyectos/BMK/include/BMK_Imagen.h
+
+1413759743 /home/hostelix/proyectos/BMK/include/BMK_Juego.h
+	"BMK_Constantes.h"
+	"BMK_Mapa.h"
+	"BMK_Sprites.h"
+	"BMK_Jugador.h"
+
+1413689821 /home/hostelix/proyectos/BMK/include/BMK_Objeto.h
+
+1413746819 /home/hostelix/proyectos/BMK/include/BMK_Jugador.h
+	"BMK_Librerias.h"
+
+1413745236 /home/hostelix/proyectos/BMK/include/BMK_Inventario.h
+
